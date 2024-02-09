@@ -9,5 +9,7 @@ package pruebagit;
  * @author HP
  */
 public class Persona {
-    
+    private int ojos;
+    private int orejas;
+    private int patas;
 }

@@ -18,6 +18,7 @@ public class PruebaGit {
         int a=10;
         int b=a*5;
         System.out.println(b);
+        String xd="xd";
     }
     
 }
